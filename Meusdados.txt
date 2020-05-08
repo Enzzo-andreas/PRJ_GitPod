@@ -1,3 +1,5 @@
 RA: 920102754
 NOME: Enzzo Andreas Campos Ribeiro  
 CURSO: Sistema de Informaçao
+DATA DE NASCIMENTO: 13/11/2002
+EMAIL: mariaenzzotom@gmail.com
