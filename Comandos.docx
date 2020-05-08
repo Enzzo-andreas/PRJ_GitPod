@@ -1,0 +1,12 @@
+Git branch 
+Git branch <nomedaramificaçao>
+Git checkout <nomedaramificaçao>
+Git add <nomedaramificaçao>
+Git commit –m <descrição>
+Git status
+Git push origin <nomedaramificaçao>
+Git merge <nomedaramificaçao
+Git log
+Clear
+Git revert <numerodaramificaçao>
+Git push
